@@ -1,0 +1,106 @@
+body {
+   background-color:white;
+  
+   }
+   
+   
+    a:link{
+      text-decoration: none;
+      color: black;
+    }
+
+a:hover{
+    color: rgb(28, 232, 123);
+    
+   
+}
+ a:visited {
+    color: rgb(27, 25, 28);
+ }
+ a:active{
+  color: rgb(87, 31, 218);
+ }
+
+ #btn {
+    color: aqua;
+ }
+
+ #demo {
+    background-color: rgb(24, 236, 88);
+    text-align: center;
+    width: auto;
+    height: 100%;
+ }
+
+ .sp {
+    color: aqua;
+   
+
+ }
+  
+ #lo {
+    color: brown;
+    
+ }
+
+ #sarkari {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+ #A {
+   text-align: center;
+ }
+
+ #D {
+   margin-left:50px;
+  
+ }
+
+ #B{
+   margin-left: 50px;
+ }
+
+ #git {
+   border: 2px;
+   background-color:rgb(0, 174, 255);
+   text-align: right;
+   padding-top: 2px;
+   padding-bottom: 10px;
+   padding-right: 20px;
+
+
+ }
+
+ #git1 {
+   border: 1px;
+   background-color:rgb(0, 174, 255);
+   text-align: right;
+   padding-top: 2px;
+   padding-bottom: 10px;
+   padding-right: 20px;
+
+ }
+
+ #git2 {
+   border: 2px;
+   background-color:blue;
+   text-align: right;
+   padding-top: 2px;
+   padding-bottom: 10px;
+   padding-right: 20px;
+ }
+
+ .marqee{
+  color: white;
+ }
+
+ nav{
+  text-align: right;
+ }
+ 
+ .img2{
+  width: 50px;
+  height: 50px;
+ }
